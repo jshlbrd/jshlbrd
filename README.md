@@ -19,7 +19,7 @@ Reach me on [LinkedIn](https://www.linkedin.com/in/joshliburdi/) if you want to 
 
 ## 📢 Public Presentations
 ### [Billions Served: Processing Security Event Logs with the AWS Serverless Stack](https://youtu.be/x2l-GCFGOcs?si=tVAs46gaNql0_vHj)
-- Shares challenges, best practices, and secrets for building large scale data processing systems using the AWS serverless stack
+- Shares challenges and best practices for building large scale data processing systems using the AWS serverless stack
 - Presented at fwd:cloudsec in mid 2023
 
 ### [Building Better Hunt Data](https://www.youtube.com/watch?v=4A8JLV5a2Dw) 
