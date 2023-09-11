@@ -20,19 +20,19 @@ Reach me on [LinkedIn](https://www.linkedin.com/in/joshliburdi/) if you want to 
 ## 📢 Public Presentations
 ### [Billions Served: Processing Security Event Logs with the AWS Serverless Stack](https://youtu.be/x2l-GCFGOcs?si=tVAs46gaNql0_vHj)
 - Shares challenges and best practices for building large scale data processing systems using the AWS serverless stack
-- Presented at fwd:cloudsec in mid 2023
+- Presented at [fwd:cloudsec](https://fwdcloudsec.org/) in mid 2023
 
 ### [Building Better Hunt Data](https://www.youtube.com/watch?v=4A8JLV5a2Dw) 
 - Describes how low quality data contributes to inefficient threat hunting operations
-- Presented at the SANS Threat Hunting Summit in late 2021
+- Presented at the [SANS Threat Hunting Summit](https://www.sans.org/cyber-security-summit/) in late 2021
 
 ### [Beyond AV: Detection-Oriented File Analysis](https://youtu.be/j-wjXUs8k1M)
 - Advocates for adding detection-oriented file analysis systems to the modern threat detection tech stack
-- Presented at BSides San Francisco in early 2019
+- Presented at [BSides San Francisco](https://bsidessf.org/) in early 2019
 
 ### [Beyond IDS: Practical Network Hunting](https://speakerdeck.com/jshlbrd/beyond-ids-practical-network-hunting)
 - Provides an overview to network-based threat hunting, including tools and techniques
-- Presented at BSides New York City in early 2016
+- Presented at [BSides New York City](https://bsidesnyc.org/) in early 2016
 
 ## 📝 Writing
 ### [Elevating Security Alert Management Using Automation](https://medium.com/brexeng/elevating-security-alert-management-using-automation-828004ad596c)
