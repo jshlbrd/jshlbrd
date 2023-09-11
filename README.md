@@ -1,6 +1,6 @@
 # Josh Liburdi
 
-Working in infosec with a focus on threat detection, incident response, and distributed systems. Reach me on [LinkedIn](https://www.linkedin.com/in/joshliburdi/) if you want to chat!
+Reach me on [LinkedIn](https://www.linkedin.com/in/joshliburdi/) if you want to chat!
 
 ## 📑 Open-Source Software
 ### 💡 [Substation](https://github.com/brexhq/substation)
