@@ -17,7 +17,7 @@ Reach me on [LinkedIn](https://www.linkedin.com/in/joshliburdi/) if you want to 
 - Contributed the [Remote Desktop Protocol (RDP) analyzer](https://github.com/zeek/zeek/tree/master/src/analyzer/protocol/rdp) in early 2015
 - Wrote several [protocol plugins](https://github.com/jshlbrd/bro-plugins) and [scripts](https://github.com/CrowdStrike/cs-bro) from late 2014 to early 2016
 
-## 📢 Public Presentations
+## 📢 [Public Presentations](./presentations/)
 ### [Billions Served: Processing Security Event Logs with the AWS Serverless Stack](https://youtu.be/x2l-GCFGOcs?si=tVAs46gaNql0_vHj)
 - Shares challenges and best practices for building large scale data processing systems using the AWS serverless stack
 - Presented at [fwd:cloudsec](https://fwdcloudsec.org/) in mid 2023
@@ -30,7 +30,7 @@ Reach me on [LinkedIn](https://www.linkedin.com/in/joshliburdi/) if you want to 
 - Advocates for adding detection-oriented file analysis systems to the modern threat detection tech stack
 - Presented at [BSides San Francisco](https://bsidessf.org/) in early 2019
 
-### [Beyond IDS: Practical Network Hunting](https://speakerdeck.com/jshlbrd/beyond-ids-practical-network-hunting)
+### [Beyond IDS: Practical Network Hunting](./presentations/2016_bsides_nyc_beyond_ids_practical_network_hunting.pdf)
 - Provides an overview to network-based threat hunting, including tools and techniques
 - Presented at [BSides New York City](https://bsidesnyc.org/) in early 2016
 
