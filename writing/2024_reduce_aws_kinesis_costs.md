@@ -1,3 +1,5 @@
+<meta property="og:image" content={https://media.wnyc.org/i/800/0/c/85/1/twinpeaks.jpg} />
+
 # Reduce AWS Kinesis Costs by 80% with this One Weird Trick
 
 ## The Trick
