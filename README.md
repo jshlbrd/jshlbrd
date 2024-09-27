@@ -9,7 +9,7 @@
 ### 💡 [Substation](https://github.com/brexhq/substation)
 - Routing, normalizing, and enriching security event and audit logs
 - Creator and lead developer since early 2021
-- Used by startups like [Brex](https://brex.com/)
+- Used by startups like [Brex](https://brex.com/) and [Verkada](https://www.verkada.com/)
 
 ### 📂 [Strelka](https://github.com/target/strelka)
 - Enterprise scale static file analysis system written in Python & Go
